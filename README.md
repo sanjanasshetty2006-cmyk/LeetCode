@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0035-search-insert-position) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0066-plus-one) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
