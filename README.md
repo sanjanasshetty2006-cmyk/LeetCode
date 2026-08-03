@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0066-plus-one) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
