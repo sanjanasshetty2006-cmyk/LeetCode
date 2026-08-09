@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
