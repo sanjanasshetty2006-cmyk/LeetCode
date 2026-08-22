@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
