@@ -1,0 +1,32 @@
+class Solution(object):
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+
+        result = []
+        used = [False] * len(nums)
+
+        def backtrack(current):
+
+            if len(current) == len(nums):
+                result.append(current[:])
+                return
+
+            for i in range(len(nums)):
+
+                if used[i]:
+                    continue
+
+                used[i] = True
+                current.append(nums[i])
+
+                backtrack(current)
+
+                current.pop()
+                used[i] = False
+
+        backtrack([])
+
+        return result
