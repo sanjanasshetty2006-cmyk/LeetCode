@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0070-climbing-stairs) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjanasshetty2006-cmyk/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
